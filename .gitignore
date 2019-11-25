@@ -1,0 +1,19 @@
+.DS_Store
+*.pyc
+__pycache__
+.coverage
+coverage.xml
+nosetests.xml
+outputfile.txt
+*.out
+/Lambda/workspace/
+
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# zip files
+*.zip
